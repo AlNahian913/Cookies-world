@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(250, 197, 133);
+    font-size: 55px;
+    font-family: 'Dancing Script', cursive;
+}
+.co{
+    color: darkkhaki;
+    padding left: 15%;
+    width: 75%;
+}
+.ch{
+    color: darkolivegreen;
+    font-size: 40px;
+}
+.first{
+    display: flex;
+}
+.sc{
+    background-repeat: no-repeat;
+    background-image: url(images/top-banner.png);
+}
+.second{
+    display: flex;
+    margin-left: 150px;
+    margin-bottom: 150px;
+}
+.third{
+    display: flex;
+    margin-left: 150px;
+    margin-bottom: 150px;
+}
+.lemon{
+    width: 20%;
+    margin-right: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5px;
+    text-align: center;
+    color: rgb(209, 195, 66);
+}
+.samoas{
+    width: 20%;
+    margin-right: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5px;
+    text-align: center;
+    color: chocolate;
+}
+.trefoils{
+    width: 20%;
+    margin-right: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5px;
+    text-align: center;
+    color: rgb(134, 128, 104);
+    
+}
+.thin-mints{
+    width: 20%;
+    margin-right: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5px;
+    text-align: center;
+    color: brown;
+}
+.togolongs{
+    width: 27%;
+    margin-right: 20px;
+    box-shadow: 15px 10px 40px gray;
+    margin-left: 5px;
+    text-align: center;
+    color: burlywood;
+}
+.do-si-dos{
+    width: 27%;
+    margin-right: 20px;
+    box-shadow: 15px 10px 40px gray;
+    margin-left: 5px;
+    text-align: center;
+    color: rgb(82, 49, 5);
+}
+.s-mores{
+    width: 27%;
+    margin-right: 20px;
+    box-shadow: 15px 10px 40px gray;
+    margin-left: 5px;
+    text-align: center;
+    color: rgb(82, 49, 5); 
+}
+.second img{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
